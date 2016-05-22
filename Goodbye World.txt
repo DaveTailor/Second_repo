@@ -1,0 +1,2 @@
+print("Goodbye blue sky")
+print("Wish you where here")
